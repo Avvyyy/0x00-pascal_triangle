@@ -1,6 +1,11 @@
 #!/usr/bin/python3
+"""Program to generate pascal's triangle"""
 
 def pascal_triangle(n):
+  """
+    Functin to create a pascal triangle
+  """
+
     if n <= 0:
         return []
 
