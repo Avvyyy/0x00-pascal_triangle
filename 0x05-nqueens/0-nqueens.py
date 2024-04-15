@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 nqueens.py: Solve the N queens problem and print all possible solutions.
 
